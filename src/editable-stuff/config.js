@@ -61,12 +61,12 @@ const repos = {
     },
     {
       title : "Quiz Portal Management System",
-      description: "It is a database systems project that handles the data of a standard quiz portal of a university. It is used for conducting quizzes on several subjects that students have enrolled under corresponding professors.",
+      description: "This database systems project handles the data of a standard quiz portal of a university. This portal is used for conducting quizzes on several subjects that students have enrolled under corresponding professors.",
       timeline: "Oct 2021 - Nov 2021"
     },
     {
       title : "Earthquake Damage Prediction",
-      description: "Using several supervised learning model, this project aims in predicting the damage grade (grade_1, grade_2, grade_3) of an earthquake caused using the data provided by Drivendata on Ghorka Earthquake in Nepal with best possible F1-measure.",
+      description: "Using several supervised learning model, this project aims in predicting the damage grade of an earthquake caused using the data provided by Drivendata on Ghorka Earthquake in Nepal with best possible F1-measure.",
       timeline: "Oct 2021 - Nov 2021"
     }
   ]
@@ -114,11 +114,11 @@ const skills = {
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 90 },
-    { name: "Teamwork", value: 80 },
+    { name: "Teamwork", value: 85 },
     { name: "Communication", value: 90 },
     { name: "Adaptability", value: 90 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Leadership", value: 80 },
+    { name: "Problem Solving", value: 80 },
+    { name: "Leadership", value: 75 },
   ],
 };
 
@@ -128,7 +128,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "I'm currently looking for full-time Software Engineering or Data Science opportunities! If you know of any positions available or if you have any questions, please reach out at",
-  email: "gaayathri.@gmail.com",
+  email: "gaayathri.pv@gmail.com",
 };
 
 const experiences = {
