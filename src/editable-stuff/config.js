@@ -34,7 +34,7 @@ const about = {
   imageSize: 375,
   message:
     "I'm a Graduate Student pursuing Masters in Computer Science with a zeal to explore and learn to keep myself abreast of technological advancements. I'm familiar with various programming languages along with knowledge in Data Science, IoT, and Web development. Apart from the technical background, I'm also an enthusiastic Content Writer.",
-  resume: require("../editable-stuff/RESUME(CAREER FAIR).pdf"),
+  resume: require("../editable-stuff/Resume_Gaayathri.pdf"),
 };
 
 // PROJECTS SECTION
