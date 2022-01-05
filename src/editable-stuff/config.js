@@ -50,14 +50,9 @@ const repos = {
   // specificRepos: [],
   projectList: [
     {
-      title : "Air Quality Monitoring System",
-      description: "This project aimed in monitoring the level of Carbondioxide, temperature, and humidity using sensors and displaying this sensory data on an LED display in the campus. It is an Internet of Things (IoT) based project.",
-      timeline: "Feb 2019 - Mar 2019"
-    },
-    {
-      title : "Automatic Following Device",
-      description: "Using bluetooth technology, the bot/device designed uniquely identifies a bluetooth wearable at the user-end and follows the direction of the user accordingly.",
-      timeline: "Sept 2019 - Feb 2020"
+      title : "Earthquake Damage Prediction",
+      description: "Using several supervised learning model, this project aims in predicting the damage grade of an earthquake caused using the data provided by Drivendata on Ghorka Earthquake in Nepal with best possible F1-measure.",
+      timeline: "Oct 2021 - Nov 2021"
     },
     {
       title : "Quiz Portal Management System",
@@ -65,9 +60,14 @@ const repos = {
       timeline: "Oct 2021 - Nov 2021"
     },
     {
-      title : "Earthquake Damage Prediction",
-      description: "Using several supervised learning model, this project aims in predicting the damage grade of an earthquake caused using the data provided by Drivendata on Ghorka Earthquake in Nepal with best possible F1-measure.",
-      timeline: "Oct 2021 - Nov 2021"
+      title : "Automatic Following Device",
+      description: "Using bluetooth technology, the bot/device designed uniquely identifies a bluetooth wearable at the user-end and follows the direction of the user accordingly.",
+      timeline: "Sept 2019 - Feb 2020"
+    },
+    {
+      title : "Air Quality Monitoring System",
+      description: "This project aimed in monitoring the level of Carbondioxide, temperature, and humidity using sensors and displaying this sensory data on an LED display in the campus. It is an Internet of Things (IoT) based project.",
+      timeline: "Feb 2019 - Mar 2019"
     }
   ]
  
